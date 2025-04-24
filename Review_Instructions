@@ -1,0 +1,14 @@
+## Peer Code Review Instructions
+
+Please review this project for any insecure code practices or OWASP Top 10 vulnerabilities.
+
+Suggested areas to check:
+- Hardcoded secrets or credentials
+- Input validation issues
+- SQL queries or unsafe user input
+- Broken authentication or authorization
+- Insecure API endpoints
+
+Kindly leave comments on the relevant lines and submit a pull request.
+
+Thank you!
