@@ -1,10 +1,10 @@
 # Final Security Audit: Marion Queen
 
 ## Project Overview
-This repository contains the original code for a Python-based app, audited for security vulnerabilities using GitHub Actions (CodeQL) and Bandit.
+This repository contains the original code for a Python-based app I did for a side project, audited for security vulnerabilities using GitHub Actions (CodeQL) and Bandit.
 
 ## Peer Code Review
-- Collaborator: @classmate
+- Collaborator: @tlavallee4
 - Reviewed via pull request and inline comments.
 
 ## Security Testing Tools
